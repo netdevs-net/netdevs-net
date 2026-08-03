@@ -17,22 +17,28 @@ A developer's brain, a hacker's mindset, a builder's heart.
 ## GitHub Stats
 
 <p align="center">
-<img src="https://stats.netdevs.net/api?username=netdevs-net&show_icons=true&count_private=true&include_all_commits=true&theme=react&bg_color=021E73&title_color=BB9A38&icon_color=0B9ED9&border_color=BB9A38&border_radius=10" height="192" />
-<img src="https://stats.netdevs.net/api/top-langs/?username=netdevs-net&layout=compact&theme=react&bg_color=021E73&title_color=BB9A38&icon_color=0B9ED9&border_color=BB9A38&border_radius=10" height="192px" />
+<img src="https://stats.netdevs.net/api?username=netdevs-net&show_icons=true&count_private=true&include_all_commits=true&theme=react&bg_color=0d1117&title_color=BB9A38&icon_color=0B9ED9&border_color=BB9A38&border_radius=10" height="192" />
+<img src="https://stats.netdevs.net/api/top-langs/?username=netdevs-net&layout=compact&theme=react&bg_color=0d1117&title_color=BB9A38&icon_color=0B9ED9&border_color=BB9A38&border_radius=10" height="192px" />
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Stack
 
-**AI:** LLM integration · Retrieval-Augmented Generation · Prompt engineering · Reinforcement learning · AI agents · Vector databases
-**Platform:** Kubernetes · Docker · AWS · GitHub Actions · Node.js · PostgreSQL
+_Beyond prompts. Beyond prototypes. Into production. AI that survives contact with the real world._
+
+**AI Engineering:** LLM integration · Retrieval-Augmented Generation · Prompt engineering · Reinforcement learning · AI agents · Vector databases
+**Platform & Infra:** Kubernetes · Docker · AWS · GitHub Actions · Node.js · PostgreSQL
 **Security:** AI vulnerabilities · Threat modeling · Secure SDLC · Container security · OWASP Top 10
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <details open>
 <summary><h2 style="display:inline">📖 About</h2></summary>
+
+**Founder, [Aibacus](https://aibac.us) — AI-native trading systems, engineered for production**
+
+Aibacus is where I build custom AI, and the systems around them: algo-trading platform tooling, live strategy execution, and client-facing dashboards. Beyond prompts, beyond prototypes — into production.
 
 **Founder, Holmes AI — Custom AI, and the systems around them**
 
