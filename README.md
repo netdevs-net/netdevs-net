@@ -18,7 +18,7 @@ A developer's brain, a hacker's mindset, a builder's heart.
 
 <p align="center">
 <img src="https://stats.netdevs.net/api?username=netdevs-net&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=react&bg_color=0d1117&title_color=BB9A38&icon_color=0B9ED9&border_color=BB9A38&border_radius=10" height="192" />
-<img src="https://stats.netdevs.net/api/top-langs/?username=netdevs-net&layout=compact&exclude_repo=MariasPlace-4.5,corebrewery,happyhusband,ulflive,cielocare,lavendaire,10thmountainlimo-live,momsbestfriend,artofskin,OceanHealing,ValleywideBuilders&theme=react&bg_color=0d1117&title_color=BB9A38&icon_color=0B9ED9&border_color=BB9A38&border_radius=10" height="192px" />
+<img src="https://stats.netdevs.net/api/top-langs/?username=netdevs-net&layout=compact&exclude_repo=MariasPlace-4.5,corebrewery,happyhusband,ulflive,cielocare,lavendaire,10thmountainlimo-live,momsbestfriend,artofskin,OceanHealing,ValleywideBuilders,wpsuperheroes,mariasplace&theme=react&bg_color=0d1117&title_color=BB9A38&icon_color=0B9ED9&border_color=BB9A38&border_radius=10" height="192px" />
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
