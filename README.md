@@ -44,7 +44,7 @@ Aibacus is where I build custom AI, and the systems around them: algo-trading pl
 
 I build AI products end to end. Retrieval, prompting, the platform they run on, and the response for when they break.
 
-Founder and lead developer of [Holmes AI](https://holmes-ai.netdevs.net), a live LLM advisor grounded in a specific corpus — I built the retrieval and prompting that keep it faithful to the source.
+Founder and lead developer of [Holmes AI](https://ernestholmes.us), a live LLM advisor grounded in a specific corpus — I built the retrieval and prompting that keep it faithful to the source.
 
 Second place at AWS DeepRacer, AWS Summit Los Angeles 2024. Sixty-plus programmers, competing solo, on a reward function I wrote in 45 minutes.
 
@@ -58,7 +58,7 @@ The difference is what happens after the demo. I run the Kubernetes underneath, 
 **Shipped, not sketched.**
 
 - **[Aibacus](https://aibac.us)** — Founder. Brand + product work — trading platform tooling and client-facing dashboards.
-- **[Holmes AI](https://holmes-ai.netdevs.net)** — Founder & Lead Developer. A spiritual AI advisor preserving Ernest Holmes' teachings for the Centers for Spiritual Living. Months of study, translated into an LLM that keeps an authentic voice. _Python · LLM integration · RAG · Prompt engineering_
+- **[Holmes AI](https://ernestholmes.us)** — Founder & Lead Developer. A spiritual AI advisor preserving Ernest Holmes' teachings for the Centers for Spiritual Living. Months of study, translated into an LLM that keeps an authentic voice. _Python · LLM integration · RAG · Prompt engineering_
 - **AWS DeepRacer** — Solo competitor, 2nd place. Wrote a reward function in ~45 minutes, placed 2 days later at AWS Summit Los Angeles 2024. _Python · Reinforcement learning · AWS_
 - **AutoRunSec** — Architect & Builder. Kubernetes observability cluster for runtime application security, with incident response built in — metrics, logging, threat detection, and case management wired into one stack. _Kubernetes · Kustomize · Falco · Prometheus · Loki · Grafana_
 - **metaAI** — AI assistant chat for Metasploit. LLM-driven offensive security tooling.
