@@ -74,6 +74,8 @@ I've been building software since 1999, and the thing I've learned is that most 
 - **[photosurgeon](https://photosurgeon.net)** — React photo gallery built on React Server Components.<br/>_TypeScript · Next.js_
 - **[DDJ-FLX4 MIDI Mapping](https://github.com/netdevs-net/DDJ-FLX4-djay-MIDI-Mapping)** — Custom MIDI mapping for the Pioneer DDJ-FLX4 in djay Pro. Most-starred repo.
 
+Much of my work is confidential and private for organizations, so I can't show it here — but my learning experiments are lined up here.
+
 **Experience**
 
 | Role | Company | When |
