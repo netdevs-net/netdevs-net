@@ -22,6 +22,16 @@ A developer's brain, a hacker's mindset, a builder's heart.
 <img src="https://stats.netdevs.net/api/top-langs/?username=netdevs-net&layout=compact&exclude_repo=MariasPlace-4.5,corebrewery,happyhusband,ulflive,cielocare,lavendaire,10thmountainlimo-live,momsbestfriend,artofskin,OceanHealing,ValleywideBuilders,wpsuperheroes,mariasplace&theme=react&bg_color=0d1117&title_color=BB9A38&icon_color=0B9ED9&border_color=BB9A38&border_radius=10" height="192px" />
 </p>
 
+<p align="center">
+<img src="https://stats.netdevs.net/streak/?user=netdevs-net&theme=react&background=0D1117&border=BB9A38&ring=0B9ED9&fire=BB9A38" height="192" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://stats.netdevs.net/activity/graph?username=netdevs-net&bg_color=0d1117&color=0B9ED9&line=BB9A38&point=BB9A38&area=true&hide_border=true" height="192" />
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/netdevs-net/netdevs-net/output/snake.svg" />
+</p>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Stack
