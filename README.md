@@ -38,11 +38,12 @@ _Beyond prompts. Beyond prototypes. Into production. AI that survives contact wi
 
 | AI Engineering | Frontend | Backend | Infra |
 |---|---|---|---|
-| LLM integration | TypeScript | Node.js / Deno | Kubernetes / Docker |
-| Retrieval-Augmented Generation | Svelte | Go | AWS / Google Cloud |
-| Prompt engineering | Next.js | PostgreSQL / TimescaleDB | nginx |
-| Reinforcement learning | React | Bash / Shell | Kafka |
-| AI agents | Tailwind | | |
+| Custom AI agents | Next.js | Node.js / Deno | Kubernetes / Docker |
+| LLM integration | React | Go | AWS / Google Cloud |
+| Retrieval-Augmented Generation (RAG) | Svelte | PostgreSQL / TimescaleDB | nginx |
+| Business automation | Tailwind | Bash / Shell | Kafka |
+| Workflow automation | TypeScript | | |
+| Reinforcement learning | | | |
 | Vector databases | | | |
 
 **Security:** AI vulnerabilities · Threat modeling · Secure SDLC · Container security · OWASP Top 10
