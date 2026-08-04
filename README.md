@@ -38,7 +38,7 @@ _Beyond prompts. Beyond prototypes. Into production. AI that survives contact wi
 
 | AI Engineering | Frontend | Backend | Infra |
 |---|---|---|---|
-| LLM integration | TypeScript | Deno | Kubernetes / Docker |
+| LLM integration | TypeScript | Node.js / Deno | Kubernetes / Docker |
 | Retrieval-Augmented Generation | Svelte | Go | AWS / Google Cloud |
 | Prompt engineering | Next.js | PostgreSQL / TimescaleDB | nginx |
 | Reinforcement learning | React | Bash / Shell | Kafka |
