@@ -18,8 +18,8 @@ A developer's brain, a hacker's mindset, a builder's heart.
 
 <table align="center">
 <tr>
-<td><img src="https://stats.netdevs.net/api?username=netdevs-net&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=react&bg_color=0d1117&title_color=BB9A38&icon_color=0B9ED9" width="410" /></td>
-<td><img src="https://stats.netdevs.net/activity/graph?username=netdevs-net&bg_color=0d1117&color=0B9ED9&line=BB9A38&point=BB9A38&area=true&hide_border=true" width="410" /></td>
+<td><img src="https://stats.netdevs.net/api?username=netdevs-net&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=react&bg_color=0d1117&title_color=BB9A38&icon_color=0B9ED9" width="270" /></td>
+<td><img src="https://stats.netdevs.net/activity/graph?username=netdevs-net&bg_color=0d1117&color=0B9ED9&line=BB9A38&point=BB9A38&area=true&hide_border=true" width="550" /></td>
 </tr>
 </table>
 
