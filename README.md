@@ -65,13 +65,14 @@ I've been building software since 1999, and the thing I've learned is that most 
 
 **Shipped, not sketched.**
 
-- **[Aibacus](https://aibac.us)** — Founder. Brand + product work — trading platform tooling and client-facing dashboards.
-- **[AutoRunSec](https://github.com/netdevs-net/AutoRunSec)** — Architect & Builder. Kubernetes observability cluster for runtime application security, with incident response built in — metrics, logging, threat detection, and case management wired into one stack.<br/>_Kubernetes · Kustomize · Falco · Prometheus · Loki · Grafana_
+- **[Aibacus](https://aibac.us)** — Architect & Lead Engineer. Multi-tenant crypto trading platform running several independent strategies in parallel — rules-based signals to gradient-boosted ML models, each gated by its own risk and regime-timing logic before it ever touches an order.<br/>_Python · Kafka · LightGBM · Kubernetes · Reinforcement learning_
+- **[AutoRunSec](https://github.com/netdevs-net/AutoRunSec)** — Architect & Builder. Kubernetes observability cluster for runtime application security, with incident response built in — Prometheus, Loki, Grafana, Falco, TheHive, and Cortex wired into one stack.<br/>_Kubernetes · Falco · Prometheus · Grafana · TheHive_
 - **[AWS DeepRacer](https://www.deepracer.com)** — Solo competitor, 2nd place against 60+ competitors at AWS Summit Los Angeles 2024.<br/>_Python · Reinforcement learning · AWS_
 - **[DDJ-FLX4 MIDI Mapping](https://github.com/netdevs-net/DDJ-FLX4-djay-MIDI-Mapping)** — Custom MIDI mapping for the Pioneer DDJ-FLX4 in djay Pro. Most-starred repo.
 - **[Holmes AI](https://ernestholmes.us)** — Founder & Lead Developer. A spiritual AI advisor preserving Ernest Holmes' teachings.<br/>_Python · LLM integration · RAG · Prompt engineering_
-- **[metaAI](https://github.com/netdevs-net/metaAI)** — AI assistant chat for Metasploit. LLM-driven offensive security tooling.
-- **[photosurgeon](https://photosurgeon.net)** — React photo gallery built on React Server Components.<br/>_TypeScript · Next.js_
+- **[Maria's Place](https://mariasplace.com)** — Free activities platform for seniors, Alzheimer's and dementia friendly. Hundreds of printable activities and video tutorials.<br/>_WordPress · PHP · JavaScript_
+- **[metaAI](https://github.com/netdevs-net/metaAI)** — MetAIsploit: AI-driven automation framework for Metasploit, generating exploit modules from CVE data and running reinforcement-learning exploitation experiments in a reproducible sandbox.<br/>_Python · Reinforcement learning · LLM integration · Metasploit · Docker_
+- **[Ocean Healing](https://oceanhealing.health)** — Architect & Builder. Booking-driven site for a healing practice — scheduling, reminders, and video sessions run end to end without the practitioner touching a calendar app.<br/>_React · TypeScript · Supabase · Twilio · SendGrid · Google Meet API_
 - **[ToDo-Matrix](https://todo.netdevs.net)** — Eisenhower Matrix productivity app. Four quadrants, drag-and-drop, timers, archives, exports.<br/>_React · TypeScript · Tailwind · dnd-kit · Vite_
 - **[ULF Built](https://ulfbuilt.com)** — Dockerized construction-industry site, monorepo with a SvelteKit frontend and Strapi CMS backend.<br/>_Svelte · SvelteKit · Strapi · Docker_
 - **[Valleywide Builders](https://valleywidebuilders.com)** — Builder site migrated off GitLab and re-platformed on SvelteKit with a Strapi CMS backend.<br/>_Svelte · SvelteKit · Strapi_
