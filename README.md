@@ -38,13 +38,12 @@ _Beyond prompts. Beyond prototypes. Into production. AI that survives contact wi
 
 | AI Engineering | Frontend | Platform & Infra |
 |---|---|---|
-| LLM integration | TypeScript | Kubernetes |
-| Retrieval-Augmented Generation | Svelte | Docker |
-| Prompt engineering | Next.js | AWS |
-| Reinforcement learning | React | GitHub Actions |
-| AI agents | Tailwind | Node.js |
-| Vector databases | | PostgreSQL / TimescaleDB |
-| | | nginx |
+| LLM integration | TypeScript | Kubernetes / Docker |
+| Retrieval-Augmented Generation | Svelte | AWS |
+| Prompt engineering | Next.js | GitHub Actions |
+| Reinforcement learning | React | Node.js |
+| AI agents | Tailwind | PostgreSQL / TimescaleDB |
+| Vector databases | | nginx |
 | | | Tailscale |
 | | | Kafka |
 
