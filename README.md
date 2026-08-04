@@ -67,7 +67,7 @@ I've been building software since 1999, and the thing I've learned is that most 
 
 - **[Aibacus](https://aibac.us)** — Founder. Brand + product work — trading platform tooling and client-facing dashboards.
 - **[Holmes AI](https://ernestholmes.us)** — Founder & Lead Developer. A spiritual AI advisor preserving Ernest Holmes' teachings.<br/>_Python · LLM integration · RAG · Prompt engineering_
-- **[AWS DeepRacer](https://www.deepracer.com)** — Solo competitor, 2nd place. Wrote a reward function in ~45 minutes, placed 2 days later at AWS Summit Los Angeles 2024.<br/>_Python · Reinforcement learning · AWS_
+- **[AWS DeepRacer](https://www.deepracer.com)** — Solo competitor, 2nd place against 60+ competitors at AWS Summit Los Angeles 2024.<br/>_Python · Reinforcement learning · AWS_
 - **[AutoRunSec](https://github.com/netdevs-net/AutoRunSec)** — Architect & Builder. Kubernetes observability cluster for runtime application security, with incident response built in — metrics, logging, threat detection, and case management wired into one stack.<br/>_Kubernetes · Kustomize · Falco · Prometheus · Loki · Grafana_
 - **[metaAI](https://github.com/netdevs-net/metaAI)** — AI assistant chat for Metasploit. LLM-driven offensive security tooling.
 - **[ToDo-Matrix](https://todo.netdevs.net)** — Eisenhower Matrix productivity app. Four quadrants, drag-and-drop, timers, archives, exports.<br/>_React · TypeScript · Tailwind · dnd-kit · Vite_
