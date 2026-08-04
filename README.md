@@ -66,12 +66,12 @@ I've been building software since 1999, and the thing I've learned is that most 
 **Shipped, not sketched.**
 
 - **[Aibacus](https://aibac.us)** — Founder. Brand + product work — trading platform tooling and client-facing dashboards.
-- **[Holmes AI](https://ernestholmes.us)** — Founder & Lead Developer. A spiritual AI advisor preserving Ernest Holmes' teachings. _Python · LLM integration · RAG · Prompt engineering_
-- **[AWS DeepRacer](https://www.deepracer.com)** — Solo competitor, 2nd place. Wrote a reward function in ~45 minutes, placed 2 days later at AWS Summit Los Angeles 2024. _Python · Reinforcement learning · AWS_
-- **[AutoRunSec](https://github.com/netdevs-net/AutoRunSec)** — Architect & Builder. Kubernetes observability cluster for runtime application security, with incident response built in — metrics, logging, threat detection, and case management wired into one stack. _Kubernetes · Kustomize · Falco · Prometheus · Loki · Grafana_
+- **[Holmes AI](https://ernestholmes.us)** — Founder & Lead Developer. A spiritual AI advisor preserving Ernest Holmes' teachings.<br/>_Python · LLM integration · RAG · Prompt engineering_
+- **[AWS DeepRacer](https://www.deepracer.com)** — Solo competitor, 2nd place. Wrote a reward function in ~45 minutes, placed 2 days later at AWS Summit Los Angeles 2024.<br/>_Python · Reinforcement learning · AWS_
+- **[AutoRunSec](https://github.com/netdevs-net/AutoRunSec)** — Architect & Builder. Kubernetes observability cluster for runtime application security, with incident response built in — metrics, logging, threat detection, and case management wired into one stack.<br/>_Kubernetes · Kustomize · Falco · Prometheus · Loki · Grafana_
 - **[metaAI](https://github.com/netdevs-net/metaAI)** — AI assistant chat for Metasploit. LLM-driven offensive security tooling.
-- **[ToDo-Matrix](https://todo.netdevs.net)** — Eisenhower Matrix productivity app. Four quadrants, drag-and-drop, timers, archives, exports. _React · TypeScript · Tailwind · dnd-kit · Vite_
-- **[photosurgeon](https://photosurgeon.net)** — React photo gallery built on React Server Components. _TypeScript · Next.js_
+- **[ToDo-Matrix](https://todo.netdevs.net)** — Eisenhower Matrix productivity app. Four quadrants, drag-and-drop, timers, archives, exports.<br/>_React · TypeScript · Tailwind · dnd-kit · Vite_
+- **[photosurgeon](https://photosurgeon.net)** — React photo gallery built on React Server Components.<br/>_TypeScript · Next.js_
 - **[DDJ-FLX4 MIDI Mapping](https://github.com/netdevs-net/DDJ-FLX4-djay-MIDI-Mapping)** — Custom MIDI mapping for the Pioneer DDJ-FLX4 in djay Pro. Most-starred repo.
 
 **Experience**
