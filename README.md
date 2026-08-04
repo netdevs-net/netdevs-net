@@ -60,7 +60,7 @@ I've been building software since 1999, and the thing I've learned is that most 
 
 </details>
 
-<details open>
+<details>
 <summary><h2 style="display:inline">💼 Work</h2></summary>
 
 **Shipped, not sketched.**
@@ -73,6 +73,8 @@ I've been building software since 1999, and the thing I've learned is that most 
 - **[ToDo-Matrix](https://todo.netdevs.net)** — Eisenhower Matrix productivity app. Four quadrants, drag-and-drop, timers, archives, exports.<br/>_React · TypeScript · Tailwind · dnd-kit · Vite_
 - **[photosurgeon](https://photosurgeon.net)** — React photo gallery built on React Server Components.<br/>_TypeScript · Next.js_
 - **[DDJ-FLX4 MIDI Mapping](https://github.com/netdevs-net/DDJ-FLX4-djay-MIDI-Mapping)** — Custom MIDI mapping for the Pioneer DDJ-FLX4 in djay Pro. Most-starred repo.
+- **[ULF Built](https://ulfbuilt.com)** — Dockerized construction-industry site, monorepo with a SvelteKit frontend and Strapi CMS backend.<br/>_Svelte · SvelteKit · Strapi · Docker_
+- **[Valleywide Builders](https://valleywidebuilders.com)** — Builder site migrated off GitLab and re-platformed on SvelteKit with a Strapi CMS backend.<br/>_Svelte · SvelteKit · Strapi_
 
 Much of my work is confidential and private for organizations, so I can't show it here.
 
