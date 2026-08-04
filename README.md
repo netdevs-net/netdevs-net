@@ -43,7 +43,6 @@ _Beyond prompts. Beyond prototypes. Into production. AI that survives contact wi
 | RAG integration | Svelte | Node.js / Deno | Kubernetes / Docker | Secure SDLC |
 | Business automation | Tailwind | PostgreSQL / TimescaleDB | nginx | Container security |
 | Workflow automation | TypeScript | Python | Prometheus / Grafana / Datadog | OWASP Top 10 |
-| Reinforcement learning | | | | |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
