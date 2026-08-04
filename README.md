@@ -40,11 +40,10 @@ _Beyond prompts. Beyond prototypes. Into production. AI that survives contact wi
 |---|---|---|
 | LLM integration | TypeScript | Kubernetes / Docker |
 | Retrieval-Augmented Generation | Svelte | AWS |
-| Prompt engineering | Next.js | Node.js |
+| Prompt engineering | Next.js | Deno |
 | Reinforcement learning | React | PostgreSQL / TimescaleDB |
 | AI agents | Tailwind | nginx |
-| Vector databases | | Tailscale |
-| | | Go |
+| Vector databases | | Go |
 | | | Kafka |
 
 **Security:** AI vulnerabilities · Threat modeling · Secure SDLC · Container security · OWASP Top 10
