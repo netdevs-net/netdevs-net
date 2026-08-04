@@ -38,10 +38,10 @@ _Beyond prompts. Beyond prototypes. Into production. AI that survives contact wi
 | ![AI Engineering](https://raw.githubusercontent.com/netdevs-net/netdevs-net/master/assets/badge-ai-engineering.svg) | ![Frontend](https://raw.githubusercontent.com/netdevs-net/netdevs-net/master/assets/badge-frontend.svg) | ![Backend](https://raw.githubusercontent.com/netdevs-net/netdevs-net/master/assets/badge-backend.svg) | ![Infra](https://raw.githubusercontent.com/netdevs-net/netdevs-net/master/assets/badge-infra.svg) | ![Security](https://raw.githubusercontent.com/netdevs-net/netdevs-net/master/assets/badge-security.svg) |
 |---|---|---|---|---|
 | Custom AI agents | Next.js | Bash / Shell | AWS / Google Cloud | AI vulnerabilities |
-| LLM integration | React | Go | Cloudflare | Threat modeling |
-| RAG integration | Svelte | Node.js / Deno | Kubernetes / Docker | Secure SDLC |
-| Business automation | Tailwind | PostgreSQL / TimescaleDB | nginx | Container security |
-| Workflow automation | TypeScript | Python | Prometheus / Grafana / Datadog | OWASP Top 10 |
+| LLM integration | React | Go | Cloudflare | Container security |
+| RAG integration | Svelte | Node.js / Deno | Kubernetes / Docker | OWASP Top 10 |
+| Business automation | Tailwind | PostgreSQL / TimescaleDB | nginx | Secure SDLC |
+| Workflow automation | TypeScript | Python | Prometheus / Grafana / Datadog | Threat modeling |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
