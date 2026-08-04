@@ -44,6 +44,7 @@ _Beyond prompts. Beyond prototypes. Into production. AI that survives contact wi
 | Reinforcement learning | React | PostgreSQL / TimescaleDB |
 | AI agents | Tailwind | nginx |
 | Vector databases | | Tailscale |
+| | | Go |
 | | | Kafka |
 
 **Security:** AI vulnerabilities · Threat modeling · Secure SDLC · Container security · OWASP Top 10
