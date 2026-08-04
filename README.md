@@ -38,10 +38,10 @@ _Beyond prompts. Beyond prototypes. Into production. AI that survives contact wi
 
 | AI Engineering | Frontend | Backend | Infra |
 |---|---|---|---|
-| Custom AI agents | Next.js | Node.js / Deno | Kubernetes / Docker |
+| Custom AI agents | Next.js | Bash / Shell | Kubernetes / Docker |
 | LLM integration | React | Go | AWS / Google Cloud |
-| Retrieval-Augmented Generation (RAG) | Svelte | PostgreSQL / TimescaleDB | nginx |
-| Business automation | Tailwind | Bash / Shell | Kafka |
+| Retrieval-Augmented Generation (RAG) | Svelte | Node.js / Deno | nginx |
+| Business automation | Tailwind | PostgreSQL / TimescaleDB | Kafka |
 | Workflow automation | TypeScript | Python | Prometheus / Grafana |
 | Reinforcement learning | | | |
 
