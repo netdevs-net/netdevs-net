@@ -22,11 +22,12 @@ A developer's brain, a hacker's mindset, a builder's heart.
 <img src="https://stats.netdevs.net/api/top-langs/?username=netdevs-net&layout=compact&exclude_repo=MariasPlace-4.5,corebrewery,happyhusband,ulflive,cielocare,lavendaire,10thmountainlimo-live,momsbestfriend,artofskin,OceanHealing,ValleywideBuilders,wpsuperheroes,mariasplace&theme=react&bg_color=0d1117&title_color=BB9A38&icon_color=0B9ED9&border_color=BB9A38&border_radius=10" height="192px" />
 </p>
 
-<p align="center">
-<img src="https://stats.netdevs.net/streak/?user=netdevs-net&theme=react&background=0D1117&border=BB9A38&ring=0B9ED9&fire=BB9A38" height="192" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://stats.netdevs.net/activity/graph?username=netdevs-net&bg_color=0d1117&color=0B9ED9&line=BB9A38&point=BB9A38&area=true&hide_border=true" height="192" />
-</p>
+<table align="center">
+<tr>
+<td><img src="https://stats.netdevs.net/streak/?user=netdevs-net&theme=react&background=0D1117&border=BB9A38&ring=0B9ED9&fire=BB9A38" width="410" /></td>
+<td><img src="https://stats.netdevs.net/activity/graph?username=netdevs-net&bg_color=0d1117&color=0B9ED9&line=BB9A38&point=BB9A38&area=true&hide_border=true" width="410" /></td>
+</tr>
+</table>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -43,19 +44,15 @@ _Beyond prompts. Beyond prototypes. Into production. AI that survives contact wi
 <details open>
 <summary><h2 style="display:inline">📖 About</h2></summary>
 
-**Founder, [Aibacus](https://aibac.us) — AI-native trading systems, engineered for production**
+**Founder, [Aibacus](https://aibac.us) — custom AI agents, business automation, marketing automation, AI workflows**
 
-Aibacus is where I build custom AI, and the systems around them: algo-trading platform tooling, live strategy execution, and client-facing dashboards. Beyond prompts, beyond prototypes — into production.
+A prompt is a starting point, not the product. At Aibacus I build custom AI agents and the automation around them — for business operations, marketing, and the kind of workflows that quietly eat a person's whole week if nobody builds them properly. Trading platform tooling and client dashboards live under the same roof, same approach: understand the actual problem, then build the system that solves it end to end.
 
-**Founder, Holmes AI — Custom AI, and the systems around them**
+I'm also the founder and lead developer of [Holmes AI](https://ernestholmes.us), a spiritual AI advisor for the Centers for Spiritual Living. It had to be right, not just fluent — months of study went into the retrieval and prompting that keep its voice faithful to Ernest Holmes' actual teachings.
 
-I build AI products end to end. Retrieval, prompting, the platform they run on, and the response for when they break.
+Second place at AWS DeepRacer, AWS Summit Los Angeles 2024 — wrote the reward function in about 45 minutes, placed two days later against sixty-plus competitors.
 
-Founder and lead developer of [Holmes AI](https://ernestholmes.us), a live LLM advisor grounded in a specific corpus — I built the retrieval and prompting that keep it faithful to the source.
-
-Second place at AWS DeepRacer, AWS Summit Los Angeles 2024. Sixty-plus programmers, competing solo, on a reward function I wrote in 45 minutes.
-
-The difference is what happens after the demo. I run the Kubernetes underneath, the observability, and the incident response. Most AI work dies in the gap between notebook and production.
+I've been building software since 1999, and the thing I've learned is that most AI work stalls out between the notebook and production — that gap is where the real engineering lives: the platform underneath, the monitoring, being the person who gets paged when it breaks. I like owning that whole arc, start to finish, not just the clever part in the middle.
 
 </details>
 
