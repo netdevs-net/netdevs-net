@@ -42,9 +42,8 @@ _Beyond prompts. Beyond prototypes. Into production. AI that survives contact wi
 | LLM integration | React | Go | AWS / Google Cloud |
 | Retrieval-Augmented Generation (RAG) | Svelte | PostgreSQL / TimescaleDB | nginx |
 | Business automation | Tailwind | Bash / Shell | Kafka |
-| Workflow automation | TypeScript | | Prometheus / Grafana |
+| Workflow automation | TypeScript | Python | Prometheus / Grafana |
 | Reinforcement learning | | | |
-| Vector databases | | | |
 
 **Security:** AI vulnerabilities · Threat modeling · Secure SDLC · Container security · OWASP Top 10
 
