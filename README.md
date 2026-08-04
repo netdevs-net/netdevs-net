@@ -36,16 +36,14 @@ A developer's brain, a hacker's mindset, a builder's heart.
 
 _Beyond prompts. Beyond prototypes. Into production. AI that survives contact with the real world._
 
-| AI Engineering | Frontend | Backend | Infra |
-|---|---|---|---|
-| Custom AI agents | Next.js | Bash / Shell | AWS / Google Cloud |
-| LLM integration | React | Go | Cloudflare |
-| RAG integration | Svelte | Node.js / Deno | Kubernetes / Docker |
-| Business automation | Tailwind | PostgreSQL / TimescaleDB | nginx |
-| Workflow automation | TypeScript | Python | Prometheus / Grafana / Datadog |
-| Reinforcement learning | | | |
-
-**Security:** AI vulnerabilities · Threat modeling · Secure SDLC · Container security · OWASP Top 10
+| AI Engineering | Frontend | Backend | Infra | Security |
+|---|---|---|---|---|
+| Custom AI agents | Next.js | Bash / Shell | AWS / Google Cloud | AI vulnerabilities |
+| LLM integration | React | Go | Cloudflare | Threat modeling |
+| RAG integration | Svelte | Node.js / Deno | Kubernetes / Docker | Secure SDLC |
+| Business automation | Tailwind | PostgreSQL / TimescaleDB | nginx | Container security |
+| Workflow automation | TypeScript | Python | Prometheus / Grafana / Datadog | OWASP Top 10 |
+| Reinforcement learning | | | | |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
