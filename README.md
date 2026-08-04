@@ -23,12 +23,11 @@ A developer's brain, a hacker's mindset, a builder's heart.
 </tr>
 </table>
 
-<table align="center">
-<tr>
-<td><img src="https://stats.netdevs.net/streak/?user=netdevs-net&theme=react&background=0D1117&border=BB9A38&ring=0B9ED9&fire=BB9A38" height="195" /></td>
-<td><img src="https://stats.netdevs.net/api/top-langs/?username=netdevs-net&layout=compact&exclude_repo=MariasPlace-4.5,corebrewery,happyhusband,ulflive,cielocare,lavendaire,10thmountainlimo-live,momsbestfriend,artofskin,OceanHealing,ValleywideBuilders,wpsuperheroes,mariasplace&theme=react&bg_color=0d1117&title_color=BB9A38&icon_color=0B9ED9&border_color=BB9A38&border_radius=10" height="195" /></td>
-</tr>
-</table>
+<p align="center">
+<img src="https://stats.netdevs.net/streak/?user=netdevs-net&theme=react&background=0D1117&border=BB9A38&ring=0B9ED9&fire=BB9A38" height="195" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://stats.netdevs.net/api/top-langs/?username=netdevs-net&layout=compact&exclude_repo=MariasPlace-4.5,corebrewery,happyhusband,ulflive,cielocare,lavendaire,10thmountainlimo-live,momsbestfriend,artofskin,OceanHealing,ValleywideBuilders,wpsuperheroes,mariasplace&theme=react&bg_color=0d1117&title_color=BB9A38&icon_color=0B9ED9&border_color=BB9A38&border_radius=10" height="195" />
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -36,7 +35,7 @@ A developer's brain, a hacker's mindset, a builder's heart.
 
 _Beyond prompts. Beyond prototypes. Into production. AI that survives contact with the real world._
 
-| AI Engineering | Frontend | Backend | Infra | Security |
+| ![AI Engineering](https://img.shields.io/badge/AI%20Engineering-F5A623?style=for-the-badge&logoColor=white) | ![Frontend](https://img.shields.io/badge/Frontend-F5A623?style=for-the-badge&logoColor=white) | ![Backend](https://img.shields.io/badge/Backend-F5A623?style=for-the-badge&logoColor=white) | ![Infra](https://img.shields.io/badge/Infra-F5A623?style=for-the-badge&logoColor=white) | ![Security](https://img.shields.io/badge/Security-F5A623?style=for-the-badge&logoColor=white) |
 |---|---|---|---|---|
 | Custom AI agents | Next.js | Bash / Shell | AWS / Google Cloud | AI vulnerabilities |
 | LLM integration | React | Go | Cloudflare | Threat modeling |
@@ -46,7 +45,7 @@ _Beyond prompts. Beyond prototypes. Into production. AI that survives contact wi
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<details open>
+<details>
 <summary><h2 style="display:inline">📖 About</h2></summary>
 
 **Founder, [Aibacus](https://aibac.us) — custom AI agents, business automation, marketing automation, AI workflows**
@@ -61,18 +60,18 @@ I've been building software since 1999, and the thing I've learned is that most 
 
 </details>
 
-<details>
+<details open>
 <summary><h2 style="display:inline">💼 Work</h2></summary>
 
 **Shipped, not sketched.**
 
 - **[Aibacus](https://aibac.us)** — Founder. Brand + product work — trading platform tooling and client-facing dashboards.
 - **[Holmes AI](https://ernestholmes.us)** — Founder & Lead Developer. A spiritual AI advisor preserving Ernest Holmes' teachings for the Centers for Spiritual Living. Months of study, translated into an LLM that keeps an authentic voice. _Python · LLM integration · RAG · Prompt engineering_
-- **AWS DeepRacer** — Solo competitor, 2nd place. Wrote a reward function in ~45 minutes, placed 2 days later at AWS Summit Los Angeles 2024. _Python · Reinforcement learning · AWS_
-- **AutoRunSec** — Architect & Builder. Kubernetes observability cluster for runtime application security, with incident response built in — metrics, logging, threat detection, and case management wired into one stack. _Kubernetes · Kustomize · Falco · Prometheus · Loki · Grafana_
-- **metaAI** — AI assistant chat for Metasploit. LLM-driven offensive security tooling.
+- **[AWS DeepRacer](https://www.deepracer.com)** — Solo competitor, 2nd place. Wrote a reward function in ~45 minutes, placed 2 days later at AWS Summit Los Angeles 2024. _Python · Reinforcement learning · AWS_
+- **[AutoRunSec](https://github.com/netdevs-net/AutoRunSec)** — Architect & Builder. Kubernetes observability cluster for runtime application security, with incident response built in — metrics, logging, threat detection, and case management wired into one stack. _Kubernetes · Kustomize · Falco · Prometheus · Loki · Grafana_
+- **[metaAI](https://github.com/netdevs-net/metaAI)** — AI assistant chat for Metasploit. LLM-driven offensive security tooling.
 - **[ToDo-Matrix](https://todo.netdevs.net)** — Eisenhower Matrix productivity app. Four quadrants, drag-and-drop, timers, archives, exports. _React · TypeScript · Tailwind · dnd-kit · Vite_
-- **photosurgeon** — React photo gallery built on React Server Components. _TypeScript · Next.js_
+- **[photosurgeon](https://photosurgeon.net)** — React photo gallery built on React Server Components. _TypeScript · Next.js_
 - **[DDJ-FLX4 MIDI Mapping](https://github.com/netdevs-net/DDJ-FLX4-djay-MIDI-Mapping)** — Custom MIDI mapping for the Pioneer DDJ-FLX4 in djay Pro. Most-starred repo.
 
 **Experience**
