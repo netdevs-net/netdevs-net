@@ -35,20 +35,13 @@ A developer's brain, a hacker's mindset, a builder's heart.
 
 _Beyond prompts. Beyond prototypes. Into production. AI that survives contact with the real world._
 
-<table>
-<tr>
-<th width="20%"><img src="https://raw.githubusercontent.com/netdevs-net/netdevs-net/master/assets/badge-ai-engineering.svg" /></th>
-<th width="20%"><img src="https://raw.githubusercontent.com/netdevs-net/netdevs-net/master/assets/badge-frontend.svg" /></th>
-<th width="20%"><img src="https://raw.githubusercontent.com/netdevs-net/netdevs-net/master/assets/badge-backend.svg" /></th>
-<th width="20%"><img src="https://raw.githubusercontent.com/netdevs-net/netdevs-net/master/assets/badge-infra.svg" /></th>
-<th width="20%"><img src="https://raw.githubusercontent.com/netdevs-net/netdevs-net/master/assets/badge-security.svg" /></th>
-</tr>
-<tr><td>Business automation</td><td>Next.js</td><td>Bash / Shell</td><td>AWS / Google Cloud</td><td>AI vulnerabilities</td></tr>
-<tr><td>Custom AI agents</td><td>React</td><td>Go</td><td>Cloudflare</td><td>Container security</td></tr>
-<tr><td>LLM integration</td><td>Svelte</td><td>Node.js / Deno</td><td>Kubernetes / Docker</td><td>Incident response</td></tr>
-<tr><td>RAG integration</td><td>Tailwind</td><td>PostgreSQL / TimescaleDB</td><td>nginx</td><td>Penetration testing</td></tr>
-<tr><td>Workflow automation</td><td>TypeScript</td><td>Python</td><td>Datadog / Grafana</td><td>Threat modeling</td></tr>
-</table>
+| ![AI Engineering](https://raw.githubusercontent.com/netdevs-net/netdevs-net/master/assets/badge-ai-engineering.svg) | ![Frontend](https://raw.githubusercontent.com/netdevs-net/netdevs-net/master/assets/badge-frontend.svg) | ![Backend](https://raw.githubusercontent.com/netdevs-net/netdevs-net/master/assets/badge-backend.svg) | ![Infra](https://raw.githubusercontent.com/netdevs-net/netdevs-net/master/assets/badge-infra.svg) | ![Security](https://raw.githubusercontent.com/netdevs-net/netdevs-net/master/assets/badge-security.svg) |
+|---|---|---|---|---|
+| Business automation | Next.js | Bash / Shell | AWS / Google Cloud | AI vulnerabilities |
+| Custom AI agents | React | Go | Cloudflare | Container security |
+| LLM integration | Svelte | Node.js / Deno | Kubernetes / Docker | Incident response |
+| RAG integration | Tailwind | PostgreSQL / TimescaleDB | nginx | Penetration testing |
+| Workflow automation | TypeScript | Python | Datadog / Grafana | Threat modeling |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
