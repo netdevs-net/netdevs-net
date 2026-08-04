@@ -36,15 +36,14 @@ A developer's brain, a hacker's mindset, a builder's heart.
 
 _Beyond prompts. Beyond prototypes. Into production. AI that survives contact with the real world._
 
-| AI Engineering | Frontend | Platform & Infra |
-|---|---|---|
-| LLM integration | TypeScript | Kubernetes / Docker |
-| Retrieval-Augmented Generation | Svelte | AWS |
-| Prompt engineering | Next.js | Deno |
-| Reinforcement learning | React | PostgreSQL / TimescaleDB |
-| AI agents | Tailwind | nginx |
-| Vector databases | | Go |
-| | | Kafka |
+| AI Engineering | Frontend | Backend | Infra |
+|---|---|---|---|
+| LLM integration | TypeScript | Deno | Kubernetes / Docker |
+| Retrieval-Augmented Generation | Svelte | Go | AWS / Google Cloud |
+| Prompt engineering | Next.js | PostgreSQL / TimescaleDB | nginx |
+| Reinforcement learning | React | Bash / Shell | Kafka |
+| AI agents | Tailwind | | |
+| Vector databases | | | |
 
 **Security:** AI vulnerabilities · Threat modeling · Secure SDLC · Container security · OWASP Top 10
 
