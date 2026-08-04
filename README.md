@@ -40,11 +40,10 @@ _Beyond prompts. Beyond prototypes. Into production. AI that survives contact wi
 |---|---|---|
 | LLM integration | TypeScript | Kubernetes / Docker |
 | Retrieval-Augmented Generation | Svelte | AWS |
-| Prompt engineering | Next.js | GitHub Actions |
-| Reinforcement learning | React | Node.js |
-| AI agents | Tailwind | PostgreSQL / TimescaleDB |
-| Vector databases | | nginx |
-| | | Tailscale |
+| Prompt engineering | Next.js | Node.js |
+| Reinforcement learning | React | PostgreSQL / TimescaleDB |
+| AI agents | Tailwind | nginx |
+| Vector databases | | Tailscale |
 | | | Kafka |
 
 **Security:** AI vulnerabilities · Threat modeling · Secure SDLC · Container security · OWASP Top 10
