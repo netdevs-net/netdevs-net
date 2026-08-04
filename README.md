@@ -35,7 +35,7 @@ A developer's brain, a hacker's mindset, a builder's heart.
 
 _Beyond prompts. Beyond prototypes. Into production. AI that survives contact with the real world._
 
-| ![AI Engineering](https://img.shields.io/badge/AI%20Engineering-F5A623?style=for-the-badge&logoColor=white) | ![Frontend](https://img.shields.io/badge/Frontend-F5A623?style=for-the-badge&logoColor=white) | ![Backend](https://img.shields.io/badge/Backend-F5A623?style=for-the-badge&logoColor=white) | ![Infra](https://img.shields.io/badge/Infra-F5A623?style=for-the-badge&logoColor=white) | ![Security](https://img.shields.io/badge/Security-F5A623?style=for-the-badge&logoColor=white) |
+| ![AI Engineering](https://raw.githubusercontent.com/netdevs-net/netdevs-net/master/assets/badge-ai-engineering.svg) | ![Frontend](https://raw.githubusercontent.com/netdevs-net/netdevs-net/master/assets/badge-frontend.svg) | ![Backend](https://raw.githubusercontent.com/netdevs-net/netdevs-net/master/assets/badge-backend.svg) | ![Infra](https://raw.githubusercontent.com/netdevs-net/netdevs-net/master/assets/badge-infra.svg) | ![Security](https://raw.githubusercontent.com/netdevs-net/netdevs-net/master/assets/badge-security.svg) |
 |---|---|---|---|---|
 | Custom AI agents | Next.js | Bash / Shell | AWS / Google Cloud | AI vulnerabilities |
 | LLM integration | React | Go | Cloudflare | Threat modeling |
