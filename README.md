@@ -1,5 +1,7 @@
 <a id="readme-top"></a>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:021E73,100:0B9ED9&height=120&section=header" alt="Header" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=0B9ED9&center=false&vCenter=true&width=560&lines=Hey%2C+I'm+Ryan+%F0%9F%91%8B;AI%2FML+Engineer;Software+Architect;Hacker;Building+since+1999" alt="Typing SVG" />
 
 **Building software since 1999.** I build AI products end to end, architect the platforms they run on, and own them in production.
@@ -7,9 +9,11 @@ A developer's brain, a hacker's mindset, a builder's heart.
 
 <div align="center">
 
-📍 Redondo Beach, CA · **Open to work** — AI engineering & software architecture, remote or hybrid <br/>
-[Portfolio](https://ryan-iguchi.com) · [LinkedIn](https://www.linkedin.com/in/ryaniguchi/) · [Email](mailto:riguchijobs@gmail.com)
+📍 Redondo Beach, CA · **Open to work** — AI engineering & software architecture, remote or hybrid
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-021E73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ryan-iguchi.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryaniguchi/)
+[![Email](https://img.shields.io/badge/Email-BB9A38?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riguchijobs@gmail.com)
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -117,6 +121,15 @@ CompTIA Security+ · PSPO I · PSM I · CKAD (CNCF) · Certified in Cybersecurit
 
 ## Contact
 
-Ryan Iguchi — [riguchijobs@gmail.com](mailto:riguchijobs@gmail.com) — [ryan-iguchi.com](https://ryan-iguchi.com)
+<div align="center">
+
+I'm open to work — AI engineering & software architecture, remote or hybrid. Feel free to reach out.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-021E73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ryan-iguchi.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryaniguchi/)
+[![Email](https://img.shields.io/badge/Email-BB9A38?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riguchijobs@gmail.com)
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B9ED9,100:021E73&height=120&section=footer" alt="Footer" />
