@@ -7,7 +7,7 @@ A developer's brain, a hacker's mindset, a builder's heart.
 
 <div align="center">
 
-📍 Redondo Beach, CA · **Open to work** — AI engineering & software architecture, remote or hybrid
+📍 Redondo Beach, CA · **Open to work** — AI engineering & software architecture, remote or hybrid <br/>
 [Portfolio](https://ryan-iguchi.com) · [LinkedIn](https://www.linkedin.com/in/ryaniguchi/) · [Email](mailto:riguchijobs@gmail.com)
 
 </div>
