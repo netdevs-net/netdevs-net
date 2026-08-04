@@ -42,7 +42,7 @@ _Beyond prompts. Beyond prototypes. Into production. AI that survives contact wi
 | LLM integration | React | Go | AWS / Google Cloud |
 | Retrieval-Augmented Generation (RAG) | Svelte | PostgreSQL / TimescaleDB | nginx |
 | Business automation | Tailwind | Bash / Shell | Kafka |
-| Workflow automation | TypeScript | | |
+| Workflow automation | TypeScript | | Prometheus / Grafana |
 | Reinforcement learning | | | |
 | Vector databases | | | |
 
