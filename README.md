@@ -28,10 +28,6 @@ A developer's brain, a hacker's mindset, a builder's heart.
 <img src="https://stats.netdevs.net/activity/graph?username=netdevs-net&bg_color=0d1117&color=0B9ED9&line=BB9A38&point=BB9A38&area=true&hide_border=true" height="192" />
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/netdevs-net/netdevs-net/output/snake.svg" />
-</p>
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Stack
