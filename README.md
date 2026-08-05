@@ -9,7 +9,7 @@ A developer's brain, a hacker's mindset, a builder's heart.
 
 <div align="center">
 
-📍 Redondo Beach, CA · **Open to work** — AI engineering & software architecture, remote or hybrid
+📍 Redondo Beach, CA · **Open to work** — senior full-stack engineering, AI/software architecture, infrastructure & SRE, security consulting, remote or hybrid
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-021E73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ryan-iguchi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryaniguchi/)
@@ -123,7 +123,17 @@ CompTIA Security+ · PSPO I · PSM I · CKAD (CNCF) · Certified in Cybersecurit
 
 <div align="center">
 
-I'm open to work — AI engineering & software architecture, remote or hybrid. Feel free to reach out.
+I'm open to work.
+
+**Senior full-stack engineering** — front to back, owning the whole system.
+
+**AI engineering & software architecture** — building and owning full systems, remote or hybrid.
+
+**Infrastructure & site reliability** — Kubernetes, Docker, authentication, provenance.
+
+**Security** — consulting, security research, reverse engineering, penetration testing, WordPress security.
+
+Open to other ideas too. Reach out.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-021E73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ryan-iguchi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryaniguchi/)
