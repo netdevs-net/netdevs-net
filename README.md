@@ -13,7 +13,7 @@ A developer's brain, a hacker's mindset, a builder's heart.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-021E73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ryan-iguchi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryaniguchi/)
-[![Email](https://img.shields.io/badge/Email-BB9A38?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riguchijobs@gmail.com)
+[![Email](https://img.shields.io/badge/Email-BB9A38?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:ryan@webdevs.net)
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -137,23 +137,24 @@ CompTIA Security+ · PSPO I · PSM I · CKAD (CNCF) · Certified in Cybersecurit
 
 ## Contact
 
+**I'm open to work — and easy to talk to.**
+
+Four lanes. Any one of them is a good reason to say hello.
+
+|  | Lane | What that looks like |
+|---|---|---|
+| 🧠 | **AI engineering & architecture** | Custom agents, RAG, LLM integration — and the platform that keeps them running |
+| 🏗️ | **Senior full-stack** | Front to back, owning the whole system rather than a slice of it |
+| ⚙️ | **Infrastructure & SRE** | Kubernetes, Docker, authentication, provenance — and being the one who gets paged |
+| 🔐 | **Security** | Consulting, security research, reverse engineering, penetration testing, WordPress security |
+
+Remote or hybrid. Not sure which lane fits? Reach out anyway — I'd rather hear the problem than the job title.
+
 <div align="center">
-
-I'm open to work.
-
-**Senior full-stack engineering** — front to back, owning the whole system.
-
-**AI engineering & software architecture** — building and owning full systems, remote or hybrid.
-
-**Infrastructure & site reliability** — Kubernetes, Docker, authentication, provenance.
-
-**Security** — consulting, security research, reverse engineering, penetration testing, WordPress security.
-
-Open to other ideas too. Reach out.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-021E73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ryan-iguchi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryaniguchi/)
-[![Email](https://img.shields.io/badge/Email-BB9A38?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riguchijobs@gmail.com)
+[![Email](https://img.shields.io/badge/Email-BB9A38?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:ryan@webdevs.net)
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
