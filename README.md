@@ -9,7 +9,7 @@ A developer's brain, a hacker's mindset, a builder's heart.
 
 <div align="center">
 
-📍 Redondo Beach, CA · **Open to work** — senior full-stack engineering, AI/software architecture, infrastructure & SRE, security consulting, remote or hybrid
+📍 Laguna Beach, CA · **Open to work** — senior full-stack engineering, AI/software architecture, infrastructure & SRE, security consulting, remote or hybrid
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-021E73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ryan-iguchi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryaniguchi/)
@@ -85,14 +85,28 @@ Much of my work is confidential and private for organizations, so I can't show i
 
 **Experience**
 
-| Role | Company | When |
-|---|---|---|
-| Technical Project Manager | NetDevs (self-employed) | Oct 2024 – Present |
-| Full-Stack Engineer · Technical PM | HomeBuilder.app | Aug 2023 – Sep 2024 |
-| Head of IT | Maria's Place | Jan 2021 – Dec 2023 |
-| Software Engineer · Product Manager | WordPress Superheroes | Jan 2017 – Jul 2023 |
-| Web Application Developer | Maria's Place | Jul 2014 – Dec 2020 |
-| Game Developer | Maria's Place | Jul 2013 – Jun 2014 |
+| Role | Company | When | Location |
+|---|---|---|---|
+| Technical Project Manager | NetDevs · Self-employed | Oct 2024 – Present | Laguna Beach, CA · Remote |
+| Full-Stack Software Engineer · Technical Product Manager | HomeBuilder.app Construction Websites | Aug 2023 – Sep 2024 | Rancho Palos Verdes, CA · Remote |
+| _Career break — professional development_ | _CSULB cybersecurity education_ | Aug 2022 – Jan 2024 | Torrance, CA |
+| Head of IT | Maria's Place | Jan 2021 – Dec 2023 | Torrance, CA · Remote |
+| Software Engineer · Product Manager | WordPress Superheroes | Jan 2017 – Jul 2023 | Boulder, CO |
+| Web Application Developer | Maria's Place | Jul 2014 – Dec 2020 | — |
+| Game Developer | Maria's Place | Jul 2013 – Jun 2014 | — |
+| Digital Producer | ULFBUILT | Jan 2012 – Jun 2013 | Edwards, CO |
+| Creative Director | Prosper Studios | Jan 2009 – Apr 2012 | — |
+| Creative Director | VailPM | Jan 2006 – Apr 2012 | Vail, CO |
+| Brand Developer | Vail Sitters | Aug 2008 – Dec 2009 | Vail, CO |
+| Creative Director | Vail Pro Media | Sep 2006 – Dec 2008 | Vail, CO |
+| Ecommerce Manager | ScooterJones | Jul 2005 – Jun 2008 | Vail, CO |
+| Web App Developer | Village Homes | Jun 2002 – Jul 2006 | Colorado |
+| Back End Developer | Barnstorm Creative | Jul 2003 – Jun 2005 | Colorado Springs, CO |
+| Assistant Marketing Manager | Sierra Construction | Jan 2003 – Jun 2003 | Edwards, CO |
+| Frontend Web Programmer | American Standard Brands | Nov 2000 – Jun 2002 | Boulder, CO |
+| Web Programmer · API Programmer · Email Marketing | Boulder Studios | Jan 1999 – Dec 2000 | Boulder, CO |
+
+Maria's Place is grouped on LinkedIn as a single 10 yr 6 mo entry across three roles. The Vail-era roles (1999–2013) overlap — they were concurrent ventures, not sequential jobs.
 
 </details>
 
