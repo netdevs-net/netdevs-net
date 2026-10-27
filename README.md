@@ -79,7 +79,7 @@ I've been building software since 1999, and the thing I've learned is that most 
 - **[Ocean Healing](https://oceanhealing.health)** — Architect & Builder. Booking-driven site for a healing practice — scheduling, reminders, and video sessions run end to end without the practitioner touching a calendar app.<br/>_React · TypeScript · Supabase · Twilio · SendGrid · Google Meet API_
 - **[ToDo-Matrix](https://todo.netdevs.net)** — Eisenhower Matrix productivity app. Four quadrants, drag-and-drop, timers, archives, exports.<br/>_React · TypeScript · Tailwind · dnd-kit · Vite_
 - **[ULF Built](https://ulfbuilt.com)** — Dockerized construction-industry site, monorepo with a SvelteKit frontend and Strapi CMS backend.<br/>_Svelte · SvelteKit · Strapi · Docker_
-- **[Valleywide Builders](https://valleywidebuilders.com)** — Builder site migrated off GitLab and re-platformed on SvelteKit with a Strapi CMS backend.<br/>_Svelte · SvelteKit · Strapi_
+- **[Valleywide Builders](https://valleywidebuilders.com)** — Builder site migrated off GitLab and re-platformed on Next.js with a Strapi CMS backend.<br/>_Next.js · React · Strapi_
 
 Much of my work is confidential and private for organizations, so I can't show it here.
 
