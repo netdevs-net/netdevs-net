@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:021E73,100:0B9ED9&height=120&section=header" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=0B9ED9&center=false&vCenter=true&width=560&lines=Hey%2C+I'm+Ryan+%F0%9F%91%8B;AI%2FML+Engineer;Software+Architect;Hacker;Building+since+1999" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=0B9ED9&center=false&vCenter=true&width=560&lines=Hey%2C+I'm+Ryan+%F0%9F%91%8B;AI%2FML+Engineer;Software+Architect;Hacker;Speaker+on+AI+Agents%2C+GenAI%2C+Cybersecurity" alt="Typing SVG" />
 
 **Building software since 1999.** I build AI products end to end, architect the platforms they run on, and own them in production.
 A developer's brain, a hacker's mindset, a builder's heart.
@@ -28,7 +28,7 @@ A developer's brain, a hacker's mindset, a builder's heart.
 </table>
 
 <p align="center">
-<img src="https://stats.netdevs.net/streak/?user=netdevs-net&theme=react&background=0D1117&border=BB9A38&ring=0B9ED9&fire=BB9A38" width="465" />
+<img src="https://stats.netdevs.net/streak/?user=netdevs-net&v=2&theme=react&background=0D1117&border=BB9A38&ring=0B9ED9&fire=BB9A38" width="465" />
 &nbsp;&nbsp;
 <img src="https://stats.netdevs.net/api/top-langs/?username=netdevs-net&layout=compact&exclude_repo=MariasPlace-4.5,corebrewery,happyhusband,ulflive,cielocare,lavendaire,10thmountainlimo-live,momsbestfriend,artofskin,OceanHealing,ValleywideBuilders,wpsuperheroes,mariasplace&theme=react&bg_color=0d1117&title_color=BB9A38&icon_color=0B9ED9&border_color=BB9A38&border_radius=10" width="333" />
 </p>
