@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:021E73,100:0B9ED9&height=120&section=header" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=0B9ED9&center=false&vCenter=true&width=560&lines=Hey%2C+I'm+Ryan+%F0%9F%91%8B;AI%2FML+Engineer;Software+Architect;Hacker;CTF+Competitor%2C+Top+1%25+Worldwide" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=0B9ED9&center=false&vCenter=true&width=560&lines=Hey%2C+I'm+Ryan+%F0%9F%91%8B;AI%2FML+Engineer;Software+Architect;Big+Data+Pipelines;CrewAI+Multi-Agent+Systems" alt="Typing SVG" />
 
 **Building software since 1999.** I build AI products end to end, architect the platforms they run on, and own them in production.
 A developer's brain, a hacker's mindset, a builder's heart.
