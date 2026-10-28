@@ -9,7 +9,7 @@ A developer's brain, a hacker's mindset, a builder's heart.
 
 <div align="center">
 
-📍 Laguna Beach, CA · **Open to work** — remote or hybrid
+📍 San Pedro, CA · **Open to work** — remote or hybrid
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-021E73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ryan-iguchi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryaniguchi/)
@@ -89,7 +89,7 @@ Much of my work is confidential and private for organizations, so I can't show i
 
 | Role | Company | When | Location |
 |---|---|---|---|
-| Technical Project Manager | NetDevs · Self-employed | Oct 2024 – Present | Laguna Beach, CA · Remote |
+| Technical Project Manager | NetDevs · Self-employed | Oct 2024 – Present | San Pedro, CA · Remote |
 | Full-Stack Software Engineer · Technical Product Manager | HomeBuilder.app Construction Websites | Aug 2023 – Sep 2024 | Rancho Palos Verdes, CA · Remote |
 | _Career break — professional development_ | _CSULB cybersecurity education_ | Aug 2022 – Jan 2024 | Torrance, CA |
 | Head of IT | Maria's Place | Jan 2021 – Dec 2023 | Torrance, CA · Remote |
