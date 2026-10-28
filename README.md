@@ -9,7 +9,7 @@ A developer's brain, a hacker's mindset, a builder's heart.
 
 <div align="center">
 
-📍 Laguna Beach, CA · **Open to work** — senior full-stack engineering, AI/software architecture, infrastructure & SRE, security consulting, remote or hybrid
+📍 Laguna Beach, CA · **Open to work** — remote or hybrid
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-021E73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ryan-iguchi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryaniguchi/)
