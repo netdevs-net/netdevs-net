@@ -66,7 +66,7 @@ _Beyond prompts. Beyond prototypes. Into production. AI that survives contact wi
 
 A prompt is a starting point, not the product. At Aibacus I build custom AI agents and the automation around them — for business operations, marketing, and the kind of workflows that quietly eat a person's whole week if nobody builds them properly. Trading platform tooling and client dashboards live under the same roof, same approach: understand the actual problem, then build the system that solves it end to end.
 
-I'm also the founder and lead developer of [Holmes AI](https://ernestholmes.us), a spiritual AI advisor for the Centers for Spiritual Living. It had to be right, not just fluent — months of study went into the retrieval and prompting that keep its voice faithful to Ernest Holmes' actual teachings.
+I'm also the AI engineer behind [Holmes AI](https://ernestholmes.us), a spiritual AI advisor for the Centers for Spiritual Living. It had to be right, not just fluent — months of study went into the retrieval and prompting that keep its voice faithful to Ernest Holmes' actual teachings.
 
 The other half of the work is security. I specialize in bridging development and security — getting secure practice in early without slowing the build: OWASP Top 10, SANS 25 and ASVS; SAST, DAST and SCA in the pipeline; cloud and IAM across AWS, GCP, Azure, Okta and Entra; and runtime monitoring once it ships. None of that is theoretical. Top 1% worldwide and the #1 national score on the ThriveDX cybersecurity assessment across 10,000+ students, #1 Blue Team at the SWIFT Cal Poly Pomona Red vs Blue, and 1st response in the Zero Networks microsegmentation challenge against forty security professionals.
 
