@@ -35,19 +35,6 @@ A developer's brain, a hacker's mindset, a builder's heart.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Latest Videos
-
-_Short songs about shipping software. Newest first, updated automatically._
-
-<p align="center">
-<!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=Vc1RcKgPIYE"><img src="https://ytcards.demolab.com/?id=Vc1RcKgPIYE&title=Still+on+PHP&lang=en&timestamp=1793340442&background_color=%230d1117&title_color=%23BB9A38&stats_color=%230B9ED9&max_title_lines=2&width=360&border_radius=10&duration=88" alt="Still on PHP" title="Still on PHP"></a>
-<a href="https://www.youtube.com/watch?v=HJbA-DZAiRk"><img src="https://ytcards.demolab.com/?id=HJbA-DZAiRk&title=It+works+on+the+laptop&lang=en&timestamp=1792798257&background_color=%230d1117&title_color=%23BB9A38&stats_color=%230B9ED9&max_title_lines=2&width=360&border_radius=10&duration=60" alt="It works on the laptop" title="It works on the laptop"></a>
-<!-- END YOUTUBE-CARDS -->
-</p>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Stack
 
 _Beyond prompts. Beyond prototypes. Into production. AI that survives contact with the real world._
@@ -143,6 +130,20 @@ Maria's Place is grouped on LinkedIn as a single 10 yr 6 mo entry across three r
 **Certifications**
 
 CompTIA Security+ · PSPO I · PSM I · CKAD (CNCF) · Certified in Cybersecurity (ISC2) · CISSP (Candidate) · Microsoft Cybersecurity, Identity & Compliance
+
+</details>
+
+<details>
+<summary><h2 style="display:inline">🎬 Latest Videos</h2></summary>
+
+_Short songs about shipping software. Newest first, updated automatically._
+
+<p align="center">
+<!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=Vc1RcKgPIYE"><img src="https://ytcards.demolab.com/?id=Vc1RcKgPIYE&title=Still+on+PHP&lang=en&timestamp=1793340442&background_color=%230d1117&title_color=%23BB9A38&stats_color=%230B9ED9&max_title_lines=2&width=360&border_radius=10&duration=88" alt="Still on PHP" title="Still on PHP"></a>
+<a href="https://www.youtube.com/watch?v=HJbA-DZAiRk"><img src="https://ytcards.demolab.com/?id=HJbA-DZAiRk&title=It+works+on+the+laptop&lang=en&timestamp=1792798257&background_color=%230d1117&title_color=%23BB9A38&stats_color=%230B9ED9&max_title_lines=2&width=360&border_radius=10&duration=60" alt="It works on the laptop" title="It works on the laptop"></a>
+<!-- END YOUTUBE-CARDS -->
+</p>
 
 </details>
 
