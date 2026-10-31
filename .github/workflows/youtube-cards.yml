@@ -15,6 +15,8 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@1.8.1
         with:
           channel_id: UCmlq4ODrdEJkCMak70ONz3A
+          # YouTube 404s the public channel feed for GitHub-hosted runners; the Data API does not
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           max_videos: 2
           card_width: 360
           border_radius: 10
