@@ -52,11 +52,13 @@ _Beyond prompts. Beyond prototypes. Into production. AI that survives contact wi
 <details>
 <summary><h2 style="display:inline">📖 About</h2></summary>
 
-**Founder, [Aibacus](https://aibac.us) — AI products, and the security and platform work that keeps them standing**
+**AI Engineering Manager at [WebDevs](https://webdevs.net) · AI/ML Engineer & AI Automation Architect at [Aibacus](https://aibac.us)**
 
-A prompt is a starting point, not the product. At Aibacus I build custom AI agents and the automation around them — for business operations, marketing, and the kind of workflows that quietly eat a person's whole week if nobody builds them properly. Trading platform tooling and client dashboards live under the same roof, same approach: understand the actual problem, then build the system that solves it end to end.
+A prompt is a starting point, not the product. [WebDevs](https://webdevs.net) is an AI software studio: custom agents for document and invoice processing, support triage, research and multi-step workflow automation — with guardrails, cost controls and human review where accuracy matters — plus the native apps and cloud platforms those features actually live in. Understand the real problem, then build the system that solves it end to end.
 
-The other half of the work is security. I specialize in bridging development and security — getting secure practice in early without slowing the build: OWASP Top 10, SANS 25 and ASVS; SAST, DAST and SCA in the pipeline; cloud and IAM across AWS, GCP, Azure, Okta and Entra; and runtime monitoring once it ships. None of that is theoretical. Top 1% worldwide and the #1 national score on the ThriveDX cybersecurity assessment across 10,000+ students, #1 Blue Team at the SWIFT Cal Poly Pomona Red vs Blue, and 1st response in the Zero Networks microsegmentation challenge against forty security professionals.
+[Aibacus](https://aibac.us) is the deeper end: a multi-tenant algorithmic trading platform I architect and run myself. Market data streams in over Kafka, lands in TimescaleDB hypertables, and becomes point-in-time features for several strategy legs running in parallel — rules-based signals through gradient-boosted models with a regime-timing overlay, each isolated behind a shared fail-closed kill switch. Nothing reaches a real order until it survives walk-forward validation, a deflated Sharpe test and a paper-trading shadow period, and nothing trades blind: latency, fills, PnL and model drift are all on a dashboard.
+
+Security runs through both. I specialize in bridging development and security — getting secure practice in early without slowing the build: OWASP Top 10, SANS 25 and ASVS; SAST, DAST and SCA in the pipeline; cloud and IAM across AWS, GCP, Azure, Okta and Entra; and runtime monitoring once it ships. None of that is theoretical. Top 1% worldwide and the #1 national score on the ThriveDX cybersecurity assessment across 10,000+ students, #1 Blue Team at the SWIFT Cal Poly Pomona Red vs Blue, and 1st response in the Zero Networks microsegmentation challenge against forty security professionals.
 
 Second place at AWS DeepRacer, AWS Summit Los Angeles 2024 — wrote the reward function in about 45 minutes, placed two days later against sixty-plus competitors.
 
@@ -88,23 +90,23 @@ Much of my work is confidential and private for organizations, so I can't show i
 
 | Role | Company | When | Location |
 |---|---|---|---|
-| Founder | [Aibacus](https://aibac.us) | Jul 2025 – Present | San Pedro, CA · Remote |
-| Technical Project Manager | NetDevs · Self-employed | Oct 2024 – Jul 2025 | San Pedro, CA · Remote |
-| Full-Stack Software Engineer · Technical Product Manager | HomeBuilder.app Construction Websites | Aug 2023 – Sep 2024 | Rancho Palos Verdes, CA · Remote |
-| _Career break — professional development_ | _CSULB cybersecurity education_ | Aug 2022 – Jan 2024 | Torrance, CA |
-| Head of IT | Maria's Place | Jan 2021 – Dec 2023 | Torrance, CA · Remote |
+| AI Engineering Manager | [WebDevs](https://webdevs.net) | Sep 2026 – Present | San Pedro, CA |
+| AI/ML Engineer · AI Automation Architect | [Aibacus](https://aibac.us) | Jul 2025 – Present | Redondo Beach, CA |
+| Software Engineering Manager | NetDevs | Oct 2024 – Jun 2025 | Rancho Palos Verdes, CA |
+| Full Stack Software Manager | HomeBuilder.app Construction Websites | Aug 2023 – Sep 2024 | Rancho Palos Verdes, CA |
+| Head of IT | Maria's Place | Jan 2021 – Dec 2023 | Torrance, CA |
 | Software Engineer · Product Manager | WordPress Superheroes | Jan 2017 – Jul 2023 | Boulder, CO |
 | Web Application Developer | Maria's Place | Jul 2014 – Dec 2020 | — |
 | Game Developer | Maria's Place | Jul 2013 – Jun 2014 | — |
 | Digital Producer | ULFBUILT | Jan 2012 – Jun 2013 | Edwards, CO |
 | Creative Director | Prosper Studios | Jan 2009 – Apr 2012 | — |
-| Creative Director | VailPM | Jan 2006 – Apr 2012 | Vail, CO |
 | Brand Developer | Vail Sitters | Aug 2008 – Dec 2009 | Vail, CO |
 | Creative Director | Vail Pro Media | Sep 2006 – Dec 2008 | Vail, CO |
+| Creative Director | VailPM | Jan 2006 – Apr 2012 | Vail, CO |
 | Ecommerce Manager | ScooterJones | Jul 2005 – Jun 2008 | Vail, CO |
-| Web App Developer | Village Homes | Jun 2002 – Jul 2006 | Colorado |
 | Back End Developer | Barnstorm Creative | Jul 2003 – Jun 2005 | Colorado Springs, CO |
 | Assistant Marketing Manager | Sierra Construction | Jan 2003 – Jun 2003 | Edwards, CO |
+| Web App Developer | Village Homes | Jun 2002 – Jul 2006 | Colorado |
 | Frontend Web Programmer | American Standard Brands | Nov 2000 – Jun 2002 | Boulder, CO |
 | Web Programmer · API Programmer · Email Marketing | Boulder Studios | Jan 1999 – Dec 2000 | Boulder, CO |
 
