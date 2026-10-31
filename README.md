@@ -41,6 +41,8 @@ _Short songs about shipping software. Newest first, updated automatically._
 
 <p align="center">
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Still on PHP 🤠 A WordPress Love Song Gone Wrong](https://ytcards.demolab.com/?id=Vc1RcKgPIYE&title=Still+on+PHP+%F0%9F%A4%A0+A+WordPress+Love+Song+Gone+Wrong&lang=en&timestamp=1793340442&background_color=%230d1117&title_color=%23BB9A38&stats_color=%230B9ED9&max_title_lines=2&width=360&border_radius=10 "Still on PHP 🤠 A WordPress Love Song Gone Wrong")](https://www.youtube.com/watch?v=Vc1RcKgPIYE)
+[![It works on the laptop](https://ytcards.demolab.com/?id=HJbA-DZAiRk&title=It+works+on+the+laptop&lang=en&timestamp=1792798257&background_color=%230d1117&title_color=%23BB9A38&stats_color=%230B9ED9&max_title_lines=2&width=360&border_radius=10 "It works on the laptop")](https://www.youtube.com/watch?v=HJbA-DZAiRk)
 <!-- END YOUTUBE-CARDS -->
 </p>
 
