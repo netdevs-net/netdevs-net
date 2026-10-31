@@ -99,7 +99,7 @@ Much of my work is confidential and private for organizations, so I can't show i
 | Role | Company | When | Location |
 |---|---|---|---|
 | Founder | [Aibacus](https://aibac.us) | Jul 2025 – Present | San Pedro, CA · Remote |
-| Technical Project Manager | NetDevs · Self-employed | Oct 2024 – Aug 2026 | San Pedro, CA · Remote |
+| Technical Project Manager | NetDevs · Self-employed | Oct 2024 – Jul 2025 | San Pedro, CA · Remote |
 | Full-Stack Software Engineer · Technical Product Manager | HomeBuilder.app Construction Websites | Aug 2023 – Sep 2024 | Rancho Palos Verdes, CA · Remote |
 | _Career break — professional development_ | _CSULB cybersecurity education_ | Aug 2022 – Jan 2024 | Torrance, CA |
 | Head of IT | Maria's Place | Jan 2021 – Dec 2023 | Torrance, CA · Remote |
