@@ -22,5 +22,4 @@ jobs:
           title_color: "#BB9A38"
           stats_color: "#0B9ED9"
           max_title_lines: 2
-          show_duration: true
           commit_message: "docs(readme): update YouTube cards"
