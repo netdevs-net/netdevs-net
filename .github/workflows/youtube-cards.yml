@@ -1,0 +1,26 @@
+name: GitHub Readme YouTube Cards
+on:
+  schedule:
+    # Every hour, on the hour
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # Lets the job commit the refreshed cards to README.md
+    permissions:
+      contents: write
+    steps:
+      - uses: DenverCoder1/github-readme-youtube-cards@1.8.1
+        with:
+          channel_id: UCmlq4ODrdEJkCMak70ONz3A
+          max_videos: 2
+          card_width: 360
+          border_radius: 10
+          background_color: "#0d1117"
+          title_color: "#BB9A38"
+          stats_color: "#0B9ED9"
+          max_title_lines: 2
+          show_duration: true
+          commit_message: "docs(readme): update YouTube cards"

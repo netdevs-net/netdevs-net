@@ -35,12 +35,13 @@ A developer's brain, a hacker's mindset, a builder's heart.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Latest Video
+## Latest Videos
 
-_DevOps vs. MLOps, a one-minute rap battle. Song made in Suno, animated in Runway._
+_Short songs about shipping software. Newest first, updated automatically._
 
 <p align="center">
-<a href="https://youtu.be/HJbA-DZAiRk"><img src="https://ytcards.demolab.com/?id=HJbA-DZAiRk&title=It+works+on+the+laptop&lang=en&timestamp=1792798257&background_color=%230d1117&title_color=%23BB9A38&stats_color=%230B9ED9&width=360&border_radius=10&duration=60" alt="It works on the laptop" title="It works on the laptop" /></a>
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
